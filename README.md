@@ -8,3 +8,4 @@ The valency-exchange repository is split up into the following components (not y
 <br>
 
 **Please note that this structure may change in the future**
+**Please note that the valency exchange app is in another repository**
